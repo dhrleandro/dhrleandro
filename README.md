@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Olá, obrigado por chegar até aqui! Sou dev PHP (Zend Framework) e estudante de bacharelado em Sistemas de Informação. Atualmente estou estudando Domain Driven Design, Clean Architecture, NodeJS, Typescript e Laravel.
+
+Este perfil é um trabalho em progresso.
+
+-----------------
+Hi, thanks for getting here! I'm a PHP (Zend Framework) dev and a bachelor's student in Information Systems. I am currently studying Domain Driven Design, Clean Architecture, NodeJS, Typescript and Laravel.
+
+This profile is a work in progress.
+
 <!--
 **dhrleandro/dhrleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
