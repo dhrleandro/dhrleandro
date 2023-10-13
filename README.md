@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-Olá, obrigado por chegar até aqui! Sou dev PHP (Zend Framework) e estudante de bacharelado em Sistemas de Informação. Atualmente estou estudando Domain Driven Design, Clean Architecture, NodeJS, Typescript e Laravel.
-
-Este perfil é um trabalho em progresso.
+Desenvolvedor de Software (principalmente Backend), bacharelado em Sistemas de Informação e uma paixão duradoura pela tecnologia desde minha adolescência. Tenho experiência em Desenvolvimento Web, incluindo Go (Golang), banco de dados PostgreSQL, PHP, Docker, Git, SQL, Zend Framework, Laravel, JavaScript, Node.js, TypeScript, React, jQuery, Clean Code, Design Patterns, SOLID, Bootstrap, Linux, Windows, HTML e CSS.
 
 -----------------
-Hi, thanks for getting here! I'm a PHP (Zend Framework) dev and a bachelor's student in Information Systems. I am currently studying Domain Driven Design, Clean Architecture, NodeJS, Typescript and Laravel.
-
-This profile is a work in progress.
+Software developer (mainly Backend), with a bachelor's degree in Information Systems and a lifelong passion for technology since I was a teenager. I have experience in Web Development, including Go (Golang), PostgreSQL database, PHP, Docker, Git, SQL, Zend Framework, Laravel, JavaScript, Node.js, TypeScript, React, jQuery, Clean Code, Design Patterns, SOLID, Bootstrap, Linux, Windows, HTML and CSS.
 
 <!--
 **dhrleandro/dhrleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
